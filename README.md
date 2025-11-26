@@ -10,5 +10,5 @@
 
 # Tecnologias utilizadas:
   Para esse projeto foi elaborado na linguagem python, usando biblioteca tkinter e versões customizadas, utilizando ferramentas como CRUD, Listas para melhor visualização do resultado esperado
-  A versão do python usada é a 3.10
-  Autor: Yago Silva
+# Versão do python usada é a 3.10
+#  Autor: Yago Silva
